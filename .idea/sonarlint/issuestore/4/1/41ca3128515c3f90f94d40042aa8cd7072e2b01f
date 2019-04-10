@@ -1,0 +1,14 @@
+
+|squid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡®êæúÿÿÿÿ8É¢†¯ -
+‹squid:S1319!"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(áüÙ8şì¤¯ -
+‚squid:S1157†"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(™ÊÁ”8É¢†¯ -
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¯ÆŸ¼şÿÿÿÿ8©–¯ -
+Hsquid:S00108~")Either remove or fill this block of code.(”ı¾8É¢†¯ -
+Hsquid:S001085")Either remove or fill this block of code.(”ı¾8Ìá†Ç -
+‚squid:S1157†"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(™ÊÁ”8É¢†¯ -
+"squid:ClassVariableVisibilityCheck"VMake portNumber a static final constant or non-public and provide accessors if needed.(¢–‡µøÿÿÿÿ8İ¤¢şœ-
+Jsquid:S1068",Remove this unused "proposer" private field.(Õ­”‡8ü•î¤ -
+usquid:S1450"WRemove the "proposer" field and declare it as a local variable in the relevant methods.(Õ­”‡8ü•î¤ -
+`squid:S1126†"AReplace this if-then-else statement by a single return statement.(™ÊÁ”8É¢†¯ -
+Ssquid:S1444"0Make this "public static portNumber" field final(¢–‡µøÿÿÿÿ8İ¤¢şœ-

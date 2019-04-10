@@ -1,0 +1,41 @@
+
+ksquid:S1192j"ODefine a constant instead of duplicating this literal " is not exist!" 4 times.(˜øÛÉùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(†«Ô§
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ı±òªÿÿÿÿÿ
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(˜øÛÉùÿÿÿÿ
+N
+squid:S106~"9Replace this use of System.out or System.err by a logger.(íşá
+isquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œâÛ
+squid:S1157,"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ì×´ûÿÿÿÿ
+squid:S11576"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Û‰ÌŞÿÿÿÿÿ
+Šsquid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ñ‚¬8Õ¡¯ -
+zsquid:S1157!"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(…ûïÆ
+squid:S1157@"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(§’¿±şÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(äõûÿÿÿÿ
+isquid:S1192V"MDefine a constant instead of duplicating this literal "Response: \"" 7 times.(‰ÉİÔùÿÿÿÿ
+psquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾æÁê
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(„Õ•‰øÿÿÿÿ
+T
+squid:S106\"9Replace this use of System.out or System.err by a logger.(³±¼Åÿÿÿÿÿ
+O
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ªÌÌ	
+T
+squid:S106y"9Replace this use of System.out or System.err by a logger.(˜øÛÉùÿÿÿÿ
+‹squid:S1319"nThe type of the "KVcopy" object should be an interface such as "Map" rather than the implementation "HashMap".(¾ûÑh8â¥¯¯ -
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¤æğúÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ûÑh8â¥¯¯ -
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(óÒ©ûÿÿÿÿ
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(İ–øÌúÿÿÿÿ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(‰ÉİÔùÿÿÿÿ
+fsquid:S1192j"JDefine a constant instead of duplicating this literal "The key: " 4 times.(˜øÛÉùÿÿÿÿ
+qsquid:S3824T"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(…õÔıÿÿÿÿ8­õğÉ -

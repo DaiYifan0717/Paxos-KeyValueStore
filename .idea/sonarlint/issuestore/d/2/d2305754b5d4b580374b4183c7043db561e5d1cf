@@ -1,0 +1,12 @@
+
+osquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‰ák8î¶ø£ -
+wsquid:S1450"YRemove the "serverPort" field and declare it as a local variable in the relevant methods.(‡ƒí¼8™„‚§ -
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›À×úùÿÿÿÿ8™„‚§ -
+Hsquid:S00108B")Either remove or fill this block of code.(”ý¾8ûõ£ -
+xsquid:S1450"URemove the "client" field and declare it as a local variable in the relevant methods.(ÇÌï÷þÿÿÿÿ8¶–Œ£ -
+{
+squid:S1352"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8öÍ£§ -
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8‹õá® -
+9squid:S3626>"Remove this redundant jump.(ÉŠ©ƒ8ûù¢§ -
+Xsquid:S11413"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ûù¢§ -

@@ -1,0 +1,14 @@
+
+wsquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹Ôı8ÔÌÓÂ -
+esquid:S1192H"HDefine a constant instead of duplicating this literal "Server " 7 times.(âÇ‘8ÔÌÓÂ -
+†"squid:ClassVariableVisibilityCheckÔ"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ÔÌÓÂ -
+squid:S1488L"^Immediately return this expression instead of assigning it to the temporary variable "result".(èë­ÿÿÿÿÿ8ÔÌÓÂ -
+…"squid:ClassVariableVisibilityCheckÓ"PMake last a static final constant or non-public and provide accessors if needed.(®÷î;8ÔÌÓÂ -
+}squid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(°÷Òåúÿÿÿÿ8ÔÌÓÂ -
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›À×úùÿÿÿÿ8ÔÌÓÂ -
+osquid:S1206•"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8ÔÌÓÂ -
+gsquid:S1192İ"HDefine a constant instead of duplicating this literal "PREPARE" 3 times.(ÍÇ‰8ÔÌÓÂ -
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(¶¤ñ—úÿÿÿÿ8ÔÌÓÂ -
+Ysquid:S2696L"6Make the enclosing method "static" or remove this set.(èë­ÿÿÿÿÿ8ÔÌÓÂ -
+hsquid:S1192¾"JDefine a constant instead of duplicating this literal "PROPOSER[" 3 times.(ØŒ @8ÔÌÓÂ -
